@@ -40,7 +40,7 @@ const moduleUser={
     actions: {
         login(context,data){
             $.ajax({
-                url:"https://app165.acapp.acwing.com.cn/api/token/",
+                url:"后端提供的api",
                 type:"POST",
                 data:{
                     username:data.username,
@@ -56,7 +56,7 @@ const moduleUser={
 
                     setInterval(()=>{
                         $.ajax({
-                            url:"https://app165.acapp.acwing.com.cn/api/token/refresh/",
+                            url:"后端提供的api",
                             type:"POST",
                             data:{
                                 refresh
@@ -69,7 +69,7 @@ const moduleUser={
                     },4.5*60*1000);
 
                     $.ajax({
-                        url:"https://app165.acapp.acwing.com.cn/myspace/getinfo/",
+                        url:"后端提供的api",
                         type:"GET",
                         data:{
                             user_id:access_obj.user_id

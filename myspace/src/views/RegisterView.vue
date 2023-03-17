@@ -56,7 +56,7 @@ export default {
       //   console.log(username.value,password.value)
       //  如果想要调用外面action的一个api的时候使用dispatch函数
       $.ajax({
-        url:"https://app165.acapp.acwing.com.cn/myspace/user/",
+        url:"后端提供的api",
         type:"POST",
         data:{
           username:username.value,

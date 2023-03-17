@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87d7df1b-0dbc-434e-bb97-10740de4388d" name="Default Changelist" comment="" />
+    <list default="true" id="87d7df1b-0dbc-434e-bb97-10740de4388d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/myspace/src/components/UserProfileWrite.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myspace/src/components/UserProfileWrite.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myspace/src/store/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/myspace/src/store/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myspace/src/views/RegisterView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myspace/src/views/RegisterView.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myspace/src/views/UserList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myspace/src/views/UserList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myspace/src/views/UserProfile.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myspace/src/views/UserProfile.vue" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +20,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2MxeGHvCHpP5vClZN1lct9nh0LX" />
   <component name="ProjectViewState">
@@ -43,6 +52,7 @@
       <workItem from="1678716268875" duration="25486000" />
       <workItem from="1678862069654" duration="7610000" />
       <workItem from="1678938430971" duration="21636000" />
+      <workItem from="1679045712268" duration="235000" />
     </task>
     <servers />
   </component>

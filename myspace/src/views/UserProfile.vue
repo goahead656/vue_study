@@ -44,7 +44,7 @@ export default {
     const posts=reactive({});
 
     $.ajax({
-      url:"https://app165.acapp.acwing.com.cn/myspace/getinfo/",
+      url:"后端提供的api",
       type:"GET",
       data:{
         user_id:userId
@@ -62,7 +62,7 @@ export default {
     });
 
     $.ajax({
-      url:"https://app165.acapp.acwing.com.cn/myspace/post/",
+      url:"后端提供的api",
       type:"GET",
       data:{
         user_id:userId

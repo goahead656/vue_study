@@ -21,7 +21,7 @@ export default {
 
     const post_a_post=()=>{
       $.ajax({
-        url:"https://app165.acapp.acwing.com.cn/myspace/post/",
+        url:"后端提供的api",
         type:"POST",
         data:{
           content:content.value

@@ -35,7 +35,7 @@ export default {
     let users=ref([]);
 
     $.ajax({
-      url:'https://app165.acapp.acwing.com.cn/myspace/userlist/',
+      url:'后端提供的api',
       //访问的类型
       type:"get",
       success(resp){
